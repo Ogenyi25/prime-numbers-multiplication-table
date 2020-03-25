@@ -6,3 +6,5 @@ TO USE .
 npm install to install all needed dependencies.
 
 npm start to run the app on your terminal
+
+npm test to run test
