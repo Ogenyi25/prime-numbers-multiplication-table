@@ -1,0 +1,8 @@
+body {
+    background-color: rgb(221, 216, 216);
+    font-family: pacifico;
+}
+.title {
+    text-align: center;
+    text-transform: capitalize;
+}

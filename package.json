@@ -1,0 +1,24 @@
+{
+  "name": "prime-number-multiplication-table",
+  "version": "1.0.0",
+  "description": "A product that should give out the multiplication table for the first ten prime number",
+  "main": "prime.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.1",
+    "mocha-jsdom": "^2.0.0",
+    "serve": "^11.3.0"
+  },
+  "scripts": {
+    "start": "serve -s",
+    "test":"mocha",
+    "test:watch":"mocha --watch"
+  },
+  "keywords": [
+    "prime",
+    "numbers"
+  ],
+  "author": "Otor John",
+  "license": "ISC"
+}
